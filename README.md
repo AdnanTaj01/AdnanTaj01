@@ -1,4 +1,21 @@
+<h1 align="center">Hi 👋, I'm Adnan Taj</h1>
+<h3 align="center">AI | Computer Science | Computer Vision | Python Web Developer | FastAPI & YOLO Specialist</h3>
 
+<p align="center">
+  🚀 Passionate about building intelligent systems that solve real-world problems  
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 Computer Science student & AI enthusiast  
+- 🤖 Working on **AI-based Automatic Billing Systems**
+- 🛒 Specialized in **YOLO (v8 → v26), Object Detection & Tracking**
+- 🧠 Strong interest in **Computer Vision & Data Science**
+- ⚡ Backend developer using **FastAPI**
+- 🍓 Experience deploying models on **Raspberry Pi**
+- 🛠 Love turning ideas into **real, working products**
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/M Adnan Taj) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:madnantaj17@gmail.com) 
 
