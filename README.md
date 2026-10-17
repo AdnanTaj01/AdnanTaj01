@@ -24,7 +24,6 @@
 - 🛒 Final year project: an **AI-powered autonomous retail billing system** with YOLO object detection
 - ⚡ Backend developer using **FastAPI**, **PostgreSQL**, and **Docker**
 - 🧪 I write automated tests and set up CI/CD with **pytest** and **GitHub Actions**
-- 🍓 Experience deploying models on **Raspberry Pi**
 - 🛠 I love turning ideas into **real, working products**
 
 ---
