@@ -8,7 +8,7 @@
 <p>
   <img src="https://img.shields.io/badge/Open%20to-Work-2ea44f?style=for-the-badge" alt="Open to work">
   <img src="https://img.shields.io/badge/Based%20in-Rawalpindi%2C%20Pakistan-0b5fff?style=for-the-badge" alt="Location">
-  <img src="https://komarev.com/ghpvc/?username=AdnanTaj01&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views">
+  <img src="https://komarev.com/ghpvc/?username=AdnanTaj01&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="">
 </p>
 
 **I build intelligent systems that solve real-world problems.**
